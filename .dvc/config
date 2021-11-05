@@ -1,0 +1,7 @@
+[core]
+    remote = ssh-storage
+['remote "ssh-storage"']
+    url = ssh://172.26.149.185/home/ubuntu/dvc
+    user = ubuntu
+    port = 22
+    keyfile = C:/Users/Default.DESKTOP-66B2EDJ/.ssh/id_rsa
